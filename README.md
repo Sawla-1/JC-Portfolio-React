@@ -1,2 +1,2 @@
 # JC-Portfolio-React
-My first time portfolio with react
+My first experience portfolio with react
